@@ -20,7 +20,7 @@ service.
 Task 3: This was completed by adding a section into the 'styles.css' file to make a hover effect for the button used in the 'Contact Us' section.
 
 | Files:  |     |
-| |----|  ||---   |
+| :----:  |:---   |
 | README.md | Overview and list of contents in the repository. |
 | instructions.txt | A copy of the instructions for the assignment with completion status.  |
 | assignment.html | HTML document for a web page incorporating the tasks to be completed.  |
