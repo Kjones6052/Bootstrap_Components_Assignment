@@ -11,13 +11,14 @@ web page design.
 Tasks Completed:
 
 Task 1: This was completed by implementing a responsive Nav Bar. This web page did not already include a Nav Bar so one was made for this 
-assignment.
+assignment. (Found on 'assignment.html' code line 26)
 
 Task 2: This was completed by changing the Services Offered section to utilize Bootstrap Card classes. This changed the presentation of the 
 information in this section to be displayed as info cards with a photo in the top half, and in the bottom half a title and description of the 
-service.
+service. (Found on 'assignment.html' code line 79)
 
 Task 3: This was completed by adding a section into the 'styles.css' file to make a hover effect for the button used in the 'Contact Us' section.
+(Fount on 'styles.css' code line 17)
 
 | Files:  |     |
 | :----:  |:---   |
