@@ -1,0 +1,18 @@
+1. Implementing Bootstrap Components in a Web Project
+Objective: The aim of this assignment is to practice implementing various Bootstrap components in a web project to enhance its design and 
+functionality.
+
+Problem Statement: Bootstrap offers a wide range of components to streamline web development and improve user experience. Your task is to 
+integrate Bootstrap components into an existing web project, focusing on navigation, visual enhancements, and interactive elements.
+
+Task 1: Implement a Responsive Navigation Bar component into your "Tech Solutions" webpage to create a responsive navigation bar that collapses 
+into a toggleable menu on smaller screens.
+status: COMPLETE
+
+Task 2: Enhance Visual Appeal with Bootstrap Cards Replace Services Section standard HTML elements with Bootstrap Cards to showcase content in a 
+visually appealing manner with consistent styling.
+status: COMPLETE
+
+Task 3: Add Dynamic Interactivity with Bootstrap Buttons Incorporate Bootstrap Buttons with interactive hover effects to enhance user engagement 
+and provide visual feedback when interacting with clickable elements.
+status: COMPLETE

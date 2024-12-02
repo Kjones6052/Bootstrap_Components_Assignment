@@ -1,0 +1,22 @@
+/* CSS Styling for the HTML document */
+
+/* Create style for header background photo */
+.bg-custom {
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: center;
+    max-height: 150px;
+    color: white;
+}
+
+/* Create style for link color */
+a {
+    color: black;
+}
+
+/* Create style button hover effect */
+.btn-dark:hover {
+    background-color: white;
+    color: black;
+    font-style: italic;
+}
